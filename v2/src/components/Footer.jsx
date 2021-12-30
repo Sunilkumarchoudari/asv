@@ -13,7 +13,11 @@ const FooterDiv = styled.div`
 export function Footer() {
   return (
     <FooterDiv>
+<<<<<<< HEAD
       Developed by&nbsp;<a href="https://github.com/sunilkumarchoudari/">SKC & Team</a>
+=======
+    {/* Developed by&nbsp;<a href="https://github.com/sunilkumarchoudari/">SKC</a> */}
+>>>>>>> bfe6d98999612472f354a20a0e409446ec250787
     </FooterDiv>
   );
 }
